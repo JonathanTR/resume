@@ -7,6 +7,7 @@ Dev Bootcamp: Graduated Nov, 2013 ( San Francisco, CA )
 + Progressed from solving basic algorithmic problems to building full web applications in Sinatra and Rails with a strong foundational knowledge of the database relations, server communication, and front-end technologies that tie those frameworks together.  
 + Worked with diverse groups of developers to create full stack web applications in short periods of time.  
 + Greatly increased personal comprehension speed through focused training in self-regulated learning strategies.  
+
 Gordon College: Graduated Dec, 2009 ( Wenham, MA )
 Majored in International Affairs, a collaboration between the economics and political science departments. 
 Honors and Awards: Graduated Cum Laude, Deans list in three semesters, Dean’s Scholarship. 
