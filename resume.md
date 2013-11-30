@@ -8,9 +8,9 @@ Dev Bootcamp: Graduated Nov, 2013 ( San Francisco, CA )
 + Worked with diverse groups of developers to create full stack web applications in short periods of time.  
 + Greatly increased personal comprehension speed through focused training in self-regulated learning strategies.  
 
-Gordon College: Graduated Dec, 2009 ( Wenham, MA )
-Majored in International Affairs, a collaboration between the economics and political science departments. 
-Honors and Awards: Graduated Cum Laude, Deans list in three semesters, Dean’s Scholarship. 
+Gordon College: Graduated Dec, 2009 ( Wenham, MA )  
++ Majored in International Affairs, a collaboration between the economics and political science departments.   
++ Honors and Awards: Graduated Cum Laude, Deans list in three semesters, Dean’s Scholarship. 
 
 **TECHNICAL PROFICIENCIES**  
 Languages: Ruby, JavaScript, HTML, CSS, SASS  
