@@ -1,0 +1,29 @@
+{
+  firstName:"Jonathan",
+  lastName:"Turnbull-Reilly",
+  contact:
+    {
+      phone:"5854723493",
+      email:"jonathan.d.reilly@gmail.com"  
+    },
+  education:
+    {
+      Dev_Bootcamp:
+      {
+      dates:"September 16th - November 16th, 2013",
+      accomplishments: 
+        [
+          "Developed a passion for learning cutting edge web technologies over nine weeks in a 7 days-a-week, 14 hours-per-day, hands-on, learning environment",
+          "Progressed from solving basic algorithm problems to building full web applications in Sinatra and Rails with a strong foundational knowledge of the database relations, server communication, and front end technologies that tie those frameworks together",
+          "Worked with diverse groups of developers to create full stack web applications in short periods of time",
+          "Greatly increased personal comprehension speed through focused training in self-regulated learning strategies"
+        ]
+      },
+      Gordon_College:
+      {
+        major:"International Affairs (a collaboration between the economics and political science departments)",
+        graduated:"December, 2009",
+        honorsAndAwards:"Graduated Cum Laude, Deans list in three semesters, Dean’s Scholarship."
+      }
+    }
+}
