@@ -8,7 +8,7 @@
     },
   education:
     {
-      Dev_Bootcamp:
+      DevBootcamp:
       {
       dates:"September 16th - November 16th, 2013",
       accomplishments: 
@@ -19,7 +19,7 @@
           "Greatly increased personal comprehension speed through focused training in self-regulated learning strategies"
         ]
       },
-      Gordon_College:
+      GordonCollege:
       {
         major:"International Affairs (a collaboration between the economics and political science departments)",
         graduated:"December, 2009",
