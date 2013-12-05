@@ -1,5 +1,5 @@
 ## Jonathan Turnbull-Reilly
-(585) 472-3493  |  jonathan.d.reilly@gmail.com
+jonathan.d.reilly@gmail.com
 
 ###**EDUCATION**  
 **Dev Bootcamp:** *Graduated Nov, 2013* ( San Francisco, CA )  
